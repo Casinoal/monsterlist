@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Monster List</string>
+    <string name="action_settings">Set shared list name</string>
+    <string name="Hello_World">Monster Shopping List App</string>
+
+    <color name="red">#FF0000</color>
+
+    <string name="enter_item">Enter Item</string>
+    <string name="add_item">Add Item</string>
+    <string name="title_activity_prefs">Prefs</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_user_settings">UserSettingsActivity</string>
+    <string name="title_activity_list_main">MainActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>

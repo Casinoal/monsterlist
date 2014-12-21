@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<PreferenceCategory 
+		android:title="First Category"
+		android:key="first_category">
+		
+		<EditTextPreference
+			android:key="shared_name"
+			android:title="Shared List name" 
+			android:summary="Enter shared list name"
+			android:dialogTitle="Shared list name setup"
+			android:dialogMessage="Enter your list name here"	
+			android:defaultValue="" />
+
+		/>
+		
+				
+	</PreferenceCategory>
+	
+</PreferenceScreen>
